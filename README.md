@@ -2,7 +2,7 @@
 
 A personal, AI-driven portfolio-research assistant. Each run combines a quantitative read of a real portfolio with the current macro environment, then produces a structured research note: a news brief, a portfolio breakdown, risk and concentration analysis, quantitative stress scenarios, and a short list of new ETF/stock ideas anchored to gaps the analysis actually found. A follow-up chat lets you interrogate the result.
 
-It is built for a small, closed group — me and my immediate family — not as a public product. There is no multi-tenancy, no signup flow, no marketing surface. This repository is a write-up of how it works; the application code and any real financial data live elsewhere.
+It is built for a small, closed group — me and my immediate family — not as a public product. This repository is a write-up of how it works; the application code and any real financial data live elsewhere.
 
 ![Dashboard with holdings table](docs/screenshots/portfolio_holdings.png)
 
